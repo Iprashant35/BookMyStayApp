@@ -15,7 +15,7 @@ public class UseCase1HotelBookingApp {
 
     /**
      * Main method - Entry point of the Java application.
-     *
+
      * @param args Command line arguments
      */
     public static void main(String[] args) {
